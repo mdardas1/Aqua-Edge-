@@ -1,6 +1,74 @@
 .container-fluid{ 
-    font-size: large;
+    font-size: x-large;
+    opacity: 100%;
 }
-.backgroundpic {
-    background-image: url(pic1.png)
+.backgroundpic{
+    background-image: url(pic2.jpg);
+    background-size: contain;
 } 
+#backgroundpic{
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 75px;
+    opacity: 
+}
+body{
+    padding-top: 75px;
+}
+
+.home{
+    font-size: larger;
+    background-color: #00c2ff;
+    opacity: 70%;
+    font-weight: bolder;
+    margin-top:  400px;
+}
+.top{
+    background-color: #00C2FF26 ;
+
+}
+.nav-item{
+    font-weight: bolder;
+}
+.footer{
+    margin-top: 200px;
+    opacity: 55%;
+}
+.picture1{
+    background-image: url(pic1.png);
+    background-repeat: no-repeat;
+    padding-top: 75px;
+    background-color: black;
+    background-size: contain; 
+}
+.top1{
+    background-color: azure;
+    opacity: 70%;
+}
+.toppic{
+    background-image: url(pic3.png);
+    background-repeat: no-repeat;
+    margin-bottom: 200pxpressure washing companies near me
+    ;
+}
+.container3{
+    margin-top: 200px;
+    background-color: #00c2ff;
+    font-size:larger;
+    font-weight: bold ;
+    background-size: contain;
+}
+.heading{
+    font-size: x-large;
+    font-weight: bolder;
+}
+.carousel-inner img{
+     max-width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    object-position: center;
+
+}
+   
+    
