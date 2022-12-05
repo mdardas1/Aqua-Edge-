@@ -3,7 +3,10 @@
     opacity: 100%;
 }
 .backgroundpic{
-    background-image: url(pic2.jpg);
+    background-image: url(pic1.png);
+    background-repeat: no-repeat;
+    padding-top: 75px;
+    background-color: black;
     background-size: contain;
 } 
 #backgroundpic{
