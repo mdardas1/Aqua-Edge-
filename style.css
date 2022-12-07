@@ -22,17 +22,14 @@ body{
 .home{
     font-size: larger;
     background-color: #00c2ff;
-    opacity: 70%;
+    opacity: 90%;
     font-weight: bolder;
-    margin-top:  400px;
+    margin-top:  200px;
 }
 .top{
     background-color: #00C2FF26 ;
+}
 
-}
-.nav-item{
-    font-weight: bolder;
-}
 .footer{
     margin-top: 200px;
     opacity: 55%;
@@ -48,12 +45,7 @@ body{
     background-color: azure;
     opacity: 70%;
 }
-.toppic{
-    background-image: url(pic3.png);
-    background-repeat: no-repeat;
-    margin-bottom: 200pxpressure washing companies near me
-    ;
-}
+
 .container3{
     margin-top: 200px;
     background-color: #00c2ff;
@@ -73,5 +65,45 @@ body{
     object-position: center;
 
 }
+.nav-link{
+    font-weight: bolder;
+    color: aliceblue;
+}
    
+#container3{
+    margin-top: none;
+    opacity: 55%;
+    background-image: url(picE.jpg); 
+    object-fit: fill;
+    background-repeat: no-repeat;
     
+    width: 100%;
+    font-size: ;
+    
+}
+.picd{
+    height: fit-content;
+    width: fit-content;
+    
+   
+}
+.title{
+    color: rgb(11, 187, 241);
+    ont-weight: 900;
+    font-size: ;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.services{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.li3{
+    font-weight: bold;
+    color: rgb(16, 214, 240);
+}
+    
+.card-body{
+    bottom: 0;
+}
