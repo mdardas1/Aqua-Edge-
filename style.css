@@ -8,13 +8,8 @@
     padding-top: 75px;
     background-color: black;
     background-size: contain;
+    height: 200px;
 } 
-#backgroundpic{
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding-top: 75px;
-    opacity: 
-}
 body{
     padding-top: 75px;
 }
@@ -47,11 +42,11 @@ body{
 }
 
 .container3{
-    margin-top: 200px;
-    background-color: #00c2ff;
-    font-size:larger;
+    margin-top: none;
+    font-size: larger;
     font-weight: bold ;
     background-size: contain;
+    height: 300px;
 }
 .heading{
     font-size: x-large;
@@ -78,7 +73,7 @@ body{
     background-repeat: no-repeat;
     
     width: 100%;
-    font-size: ;
+    
     
 }
 .picd{
@@ -89,8 +84,8 @@ body{
 }
 .title{
     color: rgb(11, 187, 241);
-    ont-weight: 900;
-    font-size: ;
+    font-weight: 900;
+    
     text-align: center;
     font-weight: bolder;
 }
@@ -106,4 +101,54 @@ body{
     
 .card-body{
     bottom: 0;
+}
+.anytime{
+    margin-left: 200px;
+}
+.ggup{
+    width: 500px;
+    height: 250px;
+    margin-top: 25px;
+    margin-bottom: 25px; ;
+}
+.col-md-6{
+    color: white;
+    margin-top: 25px;
+}
+.A1{
+    color: white;
+}
+.A2{
+    color: white;
+}
+.A3{
+    color: white;
+}
+.footer-sticky{
+    background-color: black;
+    height: 400px;
+}
+.gg3{
+    margin-top: 20px;
+    opacity: 80%;
+    background-image: url(pic26.PNG); 
+    object-fit: fill;
+    background-repeat: no-repeat;
+    width: 100%;    
+}
+.gg4{
+    font-weight: bolder;
+    background-color: grey;
+    color: black;
+    opacity: 70%;
+    font-size: large;
+}
+.heading{
+    font-weight: bolder;
+    color: aliceblue; 
+  
+}
+.number{
+    margin-top: 5px;
+    font-size: larger;
 }
