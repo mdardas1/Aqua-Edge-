@@ -16,13 +16,14 @@ body{
 
 .home{
     font-size: larger;
-    background-color: #00c2ff;
-    opacity: 90%;
+    background-color: white;
+    
     font-weight: bolder;
     margin-top:  200px;
 }
 .top{
-    background-color: #00C2FF26 ;
+    background-color: white ;
+    opacity: 60%;
 }
 
 .footer{
@@ -51,6 +52,7 @@ body{
 .heading{
     font-size: x-large;
     font-weight: bolder;
+    columns: white;
 }
 .carousel-inner img{
      max-width: 100%;
@@ -62,17 +64,18 @@ body{
 }
 .nav-link{
     font-weight: bolder;
-    color: aliceblue;
+    color: black;
 }
    
 #container3{
     margin-top: none;
-    opacity: 55%;
+    margin-bottom: 25px;
+    opacity: 100%;
     background-image: url(picE.jpg); 
     object-fit: fill;
     background-repeat: no-repeat;
-    
-    width: 100%;
+    object-position: center;
+    width: 70%;
     
     
 }
@@ -83,11 +86,12 @@ body{
    
 }
 .title{
-    color: rgb(11, 187, 241);
-    font-weight: 900;
-    
+    color: white;
     text-align: center;
     font-weight: bolder;
+    -webkit-text-stroke-color: azure;
+    text-shadow: 70px;
+    
 }
 
 .services{
@@ -96,7 +100,9 @@ body{
 }
 .li3{
     font-weight: bold;
-    color: rgb(16, 214, 240);
+    color: white;
+    text-shadow: 10px;
+
 }
     
 .card-body{
@@ -106,27 +112,31 @@ body{
     margin-left: 200px;
 }
 .ggup{
-    width: 500px;
-    height: 250px;
-    margin-top: 25px;
-    margin-bottom: 25px; ;
+    width: 70%;
+    height: 300px;
 }
 .col-md-6{
     color: white;
-    margin-top: 25px;
+    margin-top: 30px;
+    box-align: top;
+}
+.container3{
+    align-items: top;
 }
 .A1{
-    color: white;
+    color: black;
 }
 .A2{
-    color: white;
+    color: black;
 }
 .A3{
-    color: white;
+    color: black;
 }
 .footer-sticky{
-    background-color: black;
-    height: 400px;
+    background-color: white;
+    height: 300px;
+    opacity: 60%;
+    margin-top: 30px;
 }
 .gg3{
     margin-top: 20px;
@@ -145,10 +155,11 @@ body{
 }
 .heading{
     font-weight: bolder;
-    color: aliceblue; 
+    color: white; 
   
 }
 .number{
     margin-top: 5px;
     font-size: larger;
 }
+
