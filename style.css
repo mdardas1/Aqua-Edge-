@@ -69,7 +69,7 @@ body{
    
 #container3{
     margin-top: none;
-    margin-bottom: 25px;
+    margin-bottom: 40px;
     opacity: 100%;
     background-image: url(picE.jpg); 
     object-fit: fill;
@@ -114,14 +114,18 @@ body{
 .ggup{
     width: 70%;
     height: 300px;
+    
 }
 .col-md-6{
     color: white;
     margin-top: 30px;
     box-align: top;
 }
-.container3{
+.container4{
     align-items: top;
+    margin-top: 30px;
+    object-position: top;
+
 }
 .A1{
     color: black;
@@ -136,7 +140,8 @@ body{
     background-color: white;
     height: 300px;
     opacity: 60%;
-    margin-top: 30px;
+    margin-top: 40px;
+    
 }
 .gg3{
     margin-top: 20px;
@@ -162,4 +167,12 @@ body{
     margin-top: 5px;
     font-size: larger;
 }
+.newC{
+    font-size: medium;
+}
 
+.ggdown{
+    margin-top: none;
+    margin-bottom: 0px;
+   height: 400px;
+}
