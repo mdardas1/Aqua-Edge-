@@ -8,7 +8,7 @@
     padding-top: 75px;
     background-color: black;
     background-size: contain;
-    height: 200px;
+    height: px;
 } 
 body{
     padding-top: 75px;
@@ -114,7 +114,6 @@ body{
 .ggup{
     width: 70%;
     height: 300px;
-    
 }
 .col-md-6{
     color: white;
@@ -175,4 +174,14 @@ body{
     margin-top: none;
     margin-bottom: 0px;
    height: 400px;
+}
+.pic4{
+    margin-top: 500px;
+}
+.title3{
+    color: white;
+    margin-top: 25px;
+    margin-left: 100px;
+    font-size: x-large;
+
 }
